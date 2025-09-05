@@ -43,7 +43,7 @@
 4. Elegir la ISO → esquema de partición GPT o MBR según el sistema.
 5. Seleccionar sistema de archivos FAT32.
 6. Iniciar el proceso (`START`).
-7. Capturas: `images/01_rufus_open.png`, `images/02_rufus_writing.png`.
+7. Capturas: `Selecciona ubuntu.png`, `Abrir rufus.png`.
 
 ### 2.2 Imagen de Ubuntu y Windows en memoria con Ventoy
 
