@@ -44,18 +44,18 @@
    ![Abrir Rufus](Abrir_rufus.jpg)
 3. Abrir Rufus → seleccionar dispositivo.
    ![Abrir Rufus](Seleccionar_ISO.JPG)
-5. Elegir la ISO → esquema de partición GPT o MBR según el sistema.    ![Abrir Rufus](Seleccion_de_rufus.JPG)
-6. Seleccionar sistema de archivos FAT32.  
-7. Iniciar el proceso (`START`).  
+5. Elegir la ISO → esquema de partición GPT o MBR según el sistema.
+   ![Abrir Rufus](Seleccion_de_rufus.JPG)
+6.Iniciar el proceso (`START`).  
 
 ### 2.2 Imagen de Ubuntu y Windows en memoria con Ventoy
 
-1. Descargar las ISOs oficiales (Ubuntu + Windows).  
-2. Instalar Ventoy en la memoria USB (borra todos los datos).  
+1. Descargar las ISOs oficiales (Ubuntu + Windows). 
+3. Instalar Ventoy en la memoria USB (borra todos los datos).  
    ![Ventoy instalación](images/03_ventoy_install.png)  
-3. Copiar las ISOs directamente a la memoria (sin extraer).  
+4. Copiar las ISOs directamente a la memoria (sin extraer).  
    ![Ventoy copiar ISOs](images/04_ventoy_copied_isos.png)  
-4. Al arrancar, Ventoy mostrará un menú para seleccionar la ISO.  
+5. Al arrancar, Ventoy mostrará un menú para seleccionar la ISO.  
 
 ---
 
