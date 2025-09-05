@@ -52,9 +52,9 @@
 
 1. Descargar las ISOs oficiales (Ubuntu + Windows). 
 3. Instalar Ventoy en la memoria USB (borra todos los datos).  
-   ![Ventoy instalación](images/03_ventoy_install.png)  
+   ![Ventoy instalación](Descargar_ventoy.jpg)  
 4. Copiar las ISOs directamente a la memoria (sin extraer).  
-   ![Ventoy copiar ISOs](images/04_ventoy_copied_isos.png)  
+   ![Ventoy copiar ISOs](Copiar_archivos.jpg)  
 5. Al arrancar, Ventoy mostrará un menú para seleccionar la ISO.  
 
 ---
