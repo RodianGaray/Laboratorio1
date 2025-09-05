@@ -99,3 +99,11 @@ Con este laboratorio se logró:
 * Crear una memoria multi-ISO con Ventoy (Ubuntu + Windows).
 * Instalar Ubuntu paso a paso, incluyendo particionado manual.
 * Documentar todo en Markdown, con capturas.
+
+## Autores
+- **Rodian Daniel Garay Peralta**  
+- **Mariana Lombana Rojas**
+
+Docente: *Diego Alejandro Barragán Vargas*  
+Universidad Santo Tomás  
+5 de septiembre de 2025
