@@ -39,13 +39,14 @@
 ### 2.1 Imagen de Ubuntu en memoria con Rufus
 
 1. Descargar la ISO oficial de Ubuntu.  
-   ![Seleccionar Ubuntu](images/Selecciona_ubuntu.JPG)
+   ![Seleccionar Ubuntu](Selecciona_ubuntu.JPG)
 2. Insertar la memoria USB.  
-   ![Abrir Rufus](images/Abrir_rufus.png)
-3. Abrir Rufus → seleccionar dispositivo.  
-4. Elegir la ISO → esquema de partición GPT o MBR según el sistema.  
-5. Seleccionar sistema de archivos FAT32.  
-6. Iniciar el proceso (`START`).  
+   ![Abrir Rufus](Abrir_rufus.jpg)
+3. Abrir Rufus → seleccionar dispositivo.
+   ![Abrir Rufus](Seleccionar_ISO.JPG)
+5. Elegir la ISO → esquema de partición GPT o MBR según el sistema.    ![Abrir Rufus](Seleccion_de_rufus.JPG)
+6. Seleccionar sistema de archivos FAT32.  
+7. Iniciar el proceso (`START`).  
 
 ### 2.2 Imagen de Ubuntu y Windows en memoria con Ventoy
 
