@@ -39,7 +39,7 @@
 ### 2.1 Imagen de Ubuntu en memoria con Rufus
 
 1. Descargar la ISO oficial de Ubuntu.  
-   ![Seleccionar Ubuntu](Laboratorio1/Selecciona_ubuntu.JPG)
+   ![Seleccionar Ubuntu](images/Selecciona_ubuntu.JPG)
 2. Insertar la memoria USB.  
    ![Abrir Rufus](images/Abrir_rufus.png)
 3. Abrir Rufus → seleccionar dispositivo.  
