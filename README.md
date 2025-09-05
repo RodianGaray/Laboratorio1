@@ -85,12 +85,9 @@
    ![Opciones instalación](Opcion_instalacion.jpg)  
 4. Mostrarimagen ubuntu
    ![Opciones instalación](Instalacion_ubuntu.jpg)  
-
-### 3.4 Primer arranque
-
-1. Retirar la USB y reiniciar.  
-2. GRUB mostrará Ubuntu (y Windows si hay dual-boot).  
-   ![Primer arranque](images/12_first_boot.png)  
+5. Retirar la USB y reiniciar.  
+6. GRUB mostrará Ubuntu (y Windows si hay dual-boot).  
+   ![Primer arranque](Ubuntu.jpg)  
 
 ---
 
