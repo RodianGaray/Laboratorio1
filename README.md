@@ -65,17 +65,19 @@
 
 1. Encender el PC y abrir menú de arranque (teclas típicas: F12, ESC, F10).  
 2. Seleccionar la USB creada con Rufus o Ventoy.  
-   ![Boot menu](images/05_boot_menu.png)  
+   ![Boot menu](Seleccionar_usb.jpg)  
 
 ### 3.2 Instalación paso a paso de Ubuntu
 
-1. Seleccionar idioma: Español.  
-   ![Idioma](images/06_ubuntu_lang.png)  
+1. Seleccionar ISO.  
+   ![Idioma](Inicio_ventoy.jpg)  
 2. Elegir `Install Ubuntu`.  
-   ![Iniciar instalación](images/07_install_start.png)  
+   ![Iniciar instalación](Donde_descargar_ubuntu.jpg)  
 3. Preparación de instalación: normal o mínima + drivers.  
-   ![Opciones instalación](images/08_install_options.png)  
-4. Tipo de instalación: borrar disco, instalar junto a Windows o *Algo más*.  
+   ![Opciones instalación](Opcion_instalacion.jpg)  
+4. Tipo de instalación: borrar disco, instalar junto a Windows 
+5. Mostrarimagen ubuntu
+   ![Opciones instalación](Instalacion_ubuntu.jpg)  
 
 ### 3.3 Particionado manual (opción *Algo más*)
 
@@ -83,7 +85,7 @@
 * **/** (raíz): 40 GB, ext4, punto `/`.  
 * **/home:** resto, ext4, punto `/home`.  
 * **swap:** opcional, tamaño ≈ RAM.  
-  ![Particiones](images/09_partition_table.png)  
+  ![Particiones](Particion_disco.jpg)  
 
 ### 3.4 Proceso de instalación
 
