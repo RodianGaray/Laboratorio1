@@ -61,25 +61,7 @@
 
 ## Punto 3 — Uso de la memoria booteable e instalación de Ubuntu
 
-### 3.1 Arrancar desde la USB
-
-1. Encender el PC y abrir menú de arranque (teclas típicas: F12, ESC, F10).  
-2. Seleccionar la USB creada con Rufus o Ventoy.  
-   ![Boot menu](Seleccionar_usb.jpg)  
-
-### 3.2 Instalación paso a paso de Ubuntu
-
-1. Seleccionar ISO.  
-   ![Idioma](Inicio_ventoy.jpg)  
-2. Elegir `Install Ubuntu`.  
-   ![Iniciar instalación](Donde_descargar_ubuntu.jpg)  
-3. Preparación de instalación: normal o mínima + drivers.  
-   ![Opciones instalación](Opcion_instalacion.jpg)  
-4. Tipo de instalación: borrar disco, instalar junto a Windows 
-5. Mostrarimagen ubuntu
-   ![Opciones instalación](Instalacion_ubuntu.jpg)  
-
-### 3.3 Particionado manual (opción *Algo más*)
+### 3.1 Particionado manual (opción *Algo más*)
 
 * **/boot/efi (ESP):** 512 MB, FAT32, punto `/boot/efi`.  
 * **/** (raíz): 40 GB, ext4, punto `/`.  
@@ -87,15 +69,24 @@
 * **swap:** opcional, tamaño ≈ RAM.  
   ![Particiones](Particion_disco.jpg)  
 
-### 3.4 Proceso de instalación
+### 3.2 Arrancar desde la USB
 
-1. Confirmar cambios y proceder.  
-2. Configurar zona horaria, teclado, usuario.  
-3. Esperar finalización.  
-   ![Progreso instalación](images/10_install_progress.png)  
-   ![Instalación completa](images/11_install_complete.png)  
+1. Encender el PC y abrir menú de arranque (teclas típicas: F12, ESC, F10).  
+2. Seleccionar la USB creada con Rufus o Ventoy.  
+   ![Boot menu](Seleccionar_usb.jpg)  
 
-### 3.5 Primer arranque
+### 3.3 Instalación paso a paso de Ubuntu
+
+1. Seleccionar ISO.  
+   ![Idioma](Inicio_ventoy.jpg)  
+2. Elegir `Install Ubuntu`.  
+   ![Iniciar instalación](Donde_descargar_ubuntu.jpg)  
+3. Preparación de instalación: normal o mínima + drivers.  
+   ![Opciones instalación](Opcion_instalacion.jpg)  
+4. Mostrarimagen ubuntu
+   ![Opciones instalación](Instalacion_ubuntu.jpg)  
+
+### 3.4 Primer arranque
 
 1. Retirar la USB y reiniciar.  
 2. GRUB mostrará Ubuntu (y Windows si hay dual-boot).  
